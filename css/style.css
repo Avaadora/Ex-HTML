@@ -26,6 +26,18 @@ img {vertical-align: middle;}
   user-select: none;
 }
 
+.service .workship{
+  style="text-align:center;
+}
+
+.describe-service .describe-workship{
+  text-align: justify;
+}
+
+.title-service{
+  text-align: center;
+}
+
 /* Position the "next button" to the right */
 .next {
   right: 0;
